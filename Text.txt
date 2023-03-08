@@ -1,1 +1,1 @@
-This is for the Git Immersion Assignment.
+This is for the Git Immersion Assignment. This showcases how to pull, change code, and push to the repository.
